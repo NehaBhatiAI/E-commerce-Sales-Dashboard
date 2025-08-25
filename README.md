@@ -42,7 +42,7 @@ The idea was to transform raw data into meaningful insights that can support dec
 ---
 
 📸 Dashboard Preview  
-![Dashboard Screenshot](screenshot.png)  
+![Dashboard Screenshot](Screenshot.png)  
 (This is the screenshot of the actual Dashboard!)  
 
 ---
